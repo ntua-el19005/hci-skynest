@@ -1,0 +1,30 @@
+-> Size Matters
+Android Large size specifications: 360x800
+Size when flutter runs my device: 480,1066.7
+
+Width from figma to flutter helper function to work in proportions
+
+->in home_page_overlay the button "My Posts" is a good piece of code for any
+"icon on left,text on right" instance
+
+
+->maybe add GestureDetector around the login and register pages (as we did
+  in the customize_post_page)
+
+->Implement id instead of username in posts and anywhere else username is used
+
+->Michael Must Make:
+    saved and history
+    comments and working popups to change them
+    award list on db and award implementation
+    settings
+
+
+20/1:
+
+///// Done button looks wrong in settins popup! done
+/////Posts user made do not use the new image captured done!
+-> Slide Transitions for overlays
+ ///// Make your own comment implementation done!If i have time,i need to make the comment appear first on the list of comments
+///Bluetooth popup done!
+
